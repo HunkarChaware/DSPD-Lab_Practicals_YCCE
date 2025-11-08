@@ -1,0 +1,3 @@
+This is input txt file to read data.
+Welcome to the Data Structure's Lab.
+This is a sample file for testing.
